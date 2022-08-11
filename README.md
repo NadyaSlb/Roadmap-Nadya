@@ -13,7 +13,7 @@ Built with Node, Express, Mangoose. Created with EndexedDB, service worker, web 
   Run the commands  npm install.
 
   ## Screenshot
-  ![Screenshot](https://github.com/NadyaSlb/Roadmap-Nadya/blob/main/puplic/images/Screenshot_18.jpg)
+  ![Screenshot](https://github.com/NadyaSlb/Roadmap-Nadya/blob/main/public/images/Screenshot_18.jpg)
 
   ## Website
  https://stark-shelf-94862.herokuapp.com/
